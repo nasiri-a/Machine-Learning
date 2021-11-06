@@ -2,7 +2,9 @@ import numpy as np
 from sklearn.naive_bayes import MultinomialNB
 from collections import defaultdict
 
-data_path = 'ratings.dat'
+data_path\
+
+    = 'ratings.dat'
 n_users = 6040
 n_movies = 3706
 
